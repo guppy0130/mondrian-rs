@@ -1,0 +1,3 @@
+# mondrian-rs
+
+Generate rectangles
